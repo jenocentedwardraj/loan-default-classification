@@ -3,9 +3,12 @@
 This project builds a supervised machine learning model to predict whether a loan will default, based on borrower characteristics. Two models were implemented: **Logistic Regression** and **K-Nearest Neighbors (KNN)**, using a real-world dataset.
 
 ## 📁 Files
-- `LoanDefaultClassification.ipynb`: Jupyter notebook with data cleaning, modeling, and evaluation
+- `LoanDefaultClassification.ipynb`: Jupyter notebook with data cleaning, model building, and evaluation
 - `Loan_default.csv`: Dataset used for training and testing
 - `LoanDefaultClassification.html`: Rendered HTML version of the notebook
+- `README.md`: Project overview and file documentation
+- `.gitignore`: Excludes temporary, environment, and notebook checkpoint files
+- `requirements.txt`: Lists all Python packages required to run the notebook
 
 ## 🧠 Key Techniques
 - Data preprocessing (handling missing values, scaling)
@@ -20,4 +23,4 @@ This project builds a supervised machine learning model to predict whether a loa
 
 ## 👤 Author
 Jenocent Edwardraj  
-[jencoent.work@gmail.com](mailto:jencoent.work@gmail.com)eo
+[jencoent.work@gmail.com](mailto:jencoent.work@gmail.com)
