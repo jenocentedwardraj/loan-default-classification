@@ -6,7 +6,6 @@ This project builds a supervised machine learning model to predict whether a loa
 - `LoanDefaultClassification.ipynb`: Jupyter notebook with data cleaning, model building, and evaluation
 - `Loan_default.csv`: Dataset used for training and testing
 - `LoanDefaultClassification.html`: Rendered HTML version of the notebook
-- `README.md`: Project overview and file documentation
 - `.gitignore`: Excludes temporary, environment, and notebook checkpoint files
 - `requirements.txt`: Lists all Python packages required to run the notebook
 
