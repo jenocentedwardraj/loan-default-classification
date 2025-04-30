@@ -7,7 +7,7 @@ This project builds a supervised machine learning model to predict whether a loa
 - `Loan_default.csv`: Dataset used for training and testing
 - `LoanDefaultClassification.html`: Rendered HTML version of the notebook
 
-## 📊 Key Techniques
+## 🧠 Key Techniques
 - Data preprocessing (handling missing values, scaling)
 - Feature selection
 - Logistic Regression
@@ -18,6 +18,6 @@ This project builds a supervised machine learning model to predict whether a loa
 - Python 3.x
 - `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `numpy`
 
-## 📌 Author
+## 👤 Author
 Jenocent Edwardraj  
-[jencoent.work@gmail.com](mailto:jencoent.work@gmail.com)
+[jencoent.work@gmail.com](mailto:jencoent.work@gmail.com)eo
