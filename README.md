@@ -7,7 +7,7 @@ This project builds a supervised machine learning model to predict whether a loa
 - `Loan_default.csv`: Dataset used for training and testing
 - `LoanDefaultClassification.html`: Rendered HTML version of the notebook
 - `.gitignore`: Excludes temporary, environment, and notebook checkpoint files
-- `requirements.txt`: Lists all Python packages required to run the notebook
+- `requirements.txt`: Python packages required to run the notebook
 
 ## 🧠 Key Techniques
 - Data preprocessing (handling missing values, scaling)
